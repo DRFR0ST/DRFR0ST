@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mike (a.k.a. #DRFR0ST)</h1>
 <h3 align="center">#CodeWizard just converting pizza into code and teaching my mentees how to Zauber 🧙🏼‍♂️</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drfr0st&label=Profile%20views&color=0e75b6&style=flat" alt="drfr0st" /> </p>
-
-<p align="left"> <a href="https://twitter.com/drfr0st" target="blank"><img src="https://img.shields.io/twitter/follow/drfr0st?logo=twitter&style=for-the-badge" alt="drfr0st" /></a> </p>
+<br/>
+<p align="center"><a href="https://twitter.com/drfr0st" target="blank"><img src="https://img.shields.io/twitter/follow/drfr0st?logo=twitter&style=for-the-badge" alt="drfr0st" /></a></p>
+<br/>
 
 - 🔭 I’m currently working on **A lot of different large and tiny projects!**
 
-- 🌱 I’m constantly learning or wan't to learn **Kotlin.. and everything else that's cool. I will be your prisoner if you give me cool tech.**
+- 🌱 I’m constantly learning or want to learn **Kotlin.. and everything else that's cool. I will be your prisoner if you give me cool tech.**
 
 - 👯 I’m looking to work on **Xiaomi's front-end because it's literally a disaster. Without exceptions.**
 
@@ -21,7 +20,7 @@
 
 - 📫 How to reach me **mike@eling.cloud**
 
-- 📄 Know about my experiences [Didn't deploy my resume yet, just get in touch. I don't bite, I just byte.](Didn't deploy my resume yet, just get in touch. I don't bite, I just byte.)
+- 📄 Know about my experiences **Didn't deploy my resume yet, just get in touch. I don't bite, I just byte.**
 
 - ⚡ Fun fact **I think of String as a class.**
 
@@ -42,4 +41,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/DRFR0ST"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DRFR0ST" /></a></p><br><br>
 
+<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drfr0st&show_icons=true&locale=en&layout=compact" alt="drfr0st" /></p>
